@@ -1,0 +1,19 @@
+invoke a function:调用函数
+invoke：调用
+              英文释义：
+                              Invoking is just a fancy way of saying "calling a command", so basically what the "answer" you found sad was "execute this command" in the 
+terminal of your operating system (On Windows that would be the command promt aka cmd.exe and in Linux that would most likely be xterm or terminal which 
+uses bash)
+
+argument：An argument is a value that is passed to a function when it is called
+
+built-in-functions:
+https://docs.python.org/3/library/functions.html
+
+relationship between object and class:
+A class is like a blueprint and an object is a real thing.
+
+attribute :
+属性
+portfolio :
+文件夹
